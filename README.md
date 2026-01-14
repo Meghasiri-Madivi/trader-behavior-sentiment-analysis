@@ -22,3 +22,6 @@ and Bitcoin market sentiment using historical trading data and the Fear-Greed In
 ## Objective
 To understand how market sentiment (Fear vs Greed) influences trading activity,
 trade size, and profitability, and to derive insights for smarter trading strategies.
+
+Note: Large raw datasets are excluded due to size limits. Processed and sampled datasets are provided.
+
